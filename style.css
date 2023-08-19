@@ -53,6 +53,7 @@ body {
 .cart-icon {
   font-size: 24px;
   color: #333;
+  curser: pointer;
 }
 
 /* Section 1  */
