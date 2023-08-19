@@ -56,6 +56,10 @@ body {
   curser: pointer;
 }
 
+.call-icon:hover, .cart-icon:hover {
+  curser: pointer;
+}
+
 /* Section 1  */
 .section1 {
   background-image: url("/images/img1.jpg"); /* Replace 'img1.jpg' with your actual image URL */
