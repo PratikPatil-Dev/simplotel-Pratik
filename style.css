@@ -53,11 +53,11 @@ body {
 .cart-icon {
   font-size: 24px;
   color: #333;
-  curser: pointer;
 }
 
-.call-icon:hover, .cart-icon:hover {
-  curser: pointer;
+.call-icon:hover,
+.cart-icon:hover {
+  cursor: pointer;
 }
 
 /* Section 1  */
